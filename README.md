@@ -202,5 +202,5 @@
 ## Контактная информация
 
 * Email: dubatov@inbox.ru
-* LinkedIn: 
+  
 * Telegram: https://t.me/andrew_oakwood
