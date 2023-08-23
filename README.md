@@ -1,8 +1,21 @@
 # Портфолио: Инженер по тестированию (Дубатов А.В.)
 
+<div id="header" align="center"><img src="https://github.com/Mars0112/Portfolio/assets/117905141/a4fbea79-2c71-48b2-9855-3d9a7a4a737c" ></div>
+
+<div id="badges" align="center">
+  <a href="https://t.me/andrew_oakwood">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="dubatov@inbox.ru">
+    <img src="https://img.shields.io/badge/Mail.ru-blue?style=for-the-badge&logo=mail.ru&logoColor=yellow" alt="Telegram Badge"/>
+  </a>
+</div>
+
 ## Обо мне
 Привет! Меня зовут `Андрей`, я начинающий тестировщик.
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
+
+<div id="header" align="center"><video src="https://github.com/Mars0112/Portfolio/assets/117905141/012c4ee0-4989-4cee-b68c-1b652e170cfe" width="640" height="360"></div>
 
 ## Навыки и технологии
 
