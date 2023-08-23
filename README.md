@@ -6,7 +6,7 @@
   <a href="https://t.me/andrew_oakwood">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="dubatov@inbox.ru">
+  <a href="https://mail.ru/dubatov@inbox.ru">
     <img src="https://img.shields.io/badge/Mail.ru-blue?style=for-the-badge&logo=mail.ru&logoColor=yellow" alt="Telegram Badge"/>
   </a>
 </div>
