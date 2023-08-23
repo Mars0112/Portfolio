@@ -6,7 +6,7 @@
   <a href="https://t.me/andrew_oakwood">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
- <a href="mailto:marsredhood@gmail.com">
+ <a <a href="mailto:marsredhood@gmail.com"><Link text>
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
    </a>
 </div>
