@@ -6,6 +6,7 @@
   <a href="https://t.me/andrew_oakwood">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+</div>
 
 ## Обо мне
 Привет! Меня зовут `Андрей`, я начинающий тестировщик.
