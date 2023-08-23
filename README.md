@@ -6,10 +6,6 @@
   <a href="https://t.me/andrew_oakwood">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
- <a <a href="mailto:marsredhood@gmail.com"><Link text>
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-   </a>
-</div>
 
 ## Обо мне
 Привет! Меня зовут `Андрей`, я начинающий тестировщик.
@@ -231,9 +227,3 @@
 #### Результаты:
 
 По результатам проверки я считаю, что протестированный функционал не готов к релизу. Блокирующих багов нет, но имеющиеся критические баги могут крайне негативно сказаться на опыте пользователей. Часть проблем, как например, ответы на вопросы в тестах решаема со стороны преподавателя, однако это полумеры, которые не исправляют проблему в целом.
-
-## Контактная информация
-
-* Email: dubatov@inbox.ru
-  
-* Telegram: https://t.me/andrew_oakwood
