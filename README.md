@@ -1,4 +1,4 @@
-# Портфолио: Инженер по тестированию (Дубатов А.В.)
+# :scroll: Портфолио: Инженер по тестированию
 
 <div id="header" align="center"><img src="https://github.com/Mars0112/Portfolio/assets/117905141/a4fbea79-2c71-48b2-9855-3d9a7a4a737c" ></div>
 
