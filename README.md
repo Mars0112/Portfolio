@@ -9,7 +9,7 @@
 </div>
 
 ## :man_technologist: Обо мне:
-Привет :vulcan_salute:! Меня зовут `Андрей`, я начинающий тестировщик.
+Привет :vulcan_salute:! Меня зовут `Андрей`, я тестировщик.
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 
 <div id="header" align="center"><video src="https://github.com/Mars0112/Portfolio/assets/117905141/012c4ee0-4989-4cee-b68c-1b652e170cfe" width="640" height="360"></div>
